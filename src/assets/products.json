@@ -1,0 +1,52 @@
+[
+  {
+    "productId": 1,
+    "productName": "fruits - coloured",
+    "productCode": "GDN-0011",
+    "releaseDate": "March 19, 2016",
+    "description": "coloured line art fruits",
+    "price": 19.95,
+    "starRating": 3.2,
+    "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"
+  },
+  {
+    "productId": 2,
+    "productName": "lemon orange fruits",
+    "productCode": "GDN-0023",
+    "releaseDate": "March 18, 2016",
+    "description": "15 gallon lemon, orange, fruits, food",
+    "price": 32.99,
+    "starRating": 4.2,
+    "imageUrl": "https://www.hlevkin.com/TestImages/fruits.bmp"
+  },
+  {
+    "productId": 5,
+    "productName": "orange apelsinas",
+    "productCode": "TBX-0048",
+    "releaseDate": "May 21, 2016",
+    "description": "orange, apelsinas, fruits, food",
+    "price": 8.9,
+    "starRating": 4.8,
+    "imageUrl": "https://img1.cookinglight.timeinc.net/sites/default/files/styles/4_3_horizontal_-_1200x900/public/1502826406/1708w-getty-fruit-closeup-CarstenSchanter-EyeEm.jpg?itok=XFE9vQPZ"
+  },
+  {
+    "productId": 8,
+    "productName": "Budwhite72",
+    "productCode": "TBX-0022",
+    "releaseDate": "May 15, 2016",
+    "description": "tomato, tomate, vegetables, fruit, ",
+    "price": 11.55,
+    "starRating": 3.7,
+    "imageUrl": "https://i.ytimg.com/vi/vZSNkH7Z-ME/maxresdefault.jpg"
+  },
+  {
+    "productId": 10,
+    "productName": "Guava",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2015",
+    "description": "fruits clip art by NetAlloy",
+    "price": 35.95,
+    "starRating": 4.6,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0612/6549/products/shutterstock_172450520_7649b75a-9991-425f-b2a7-8abdb9020b69_2048x.jpg?v=1535483572"
+  }
+]
